@@ -1,2 +1,4 @@
 hello
-minhdang create new feature/2-10
+minhdang create new feature/10 
+minhdang merge feature/2-10 to feature/2
+minhdang 12345
